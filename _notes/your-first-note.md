@@ -5,7 +5,7 @@ image: /assets/image.jpg
 
 ### Welcome!
 
-Hier kommt einfach mal etwas rein. Und hier nochmal.
+Hier kommt einfach mal etwas rein. Und hier nochmal. Und ein dritter Test.
 
 ### Link syntax
 
