@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current_",
+				"current_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"ZK: Auto-Bib"
+			],
+			[
+				"ren",
+				"ZK: Rename File From Title"
+			],
+			[
+				"ftp",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"zk",
+				"ZK: Expand Overview Note"
+			],
+			[
+				"REN",
+				"Rename File"
+			],
+			[
+				"rena",
+				"ZK: Rename File From Title"
+			],
+			[
+				"renma",
+				"ZK: Rename File From Title"
+			],
+			[
+				"rename",
+				"ZK: Rename File From Title"
+			],
+			[
+				"ze",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"zette",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"expan",
+				"ZK: Expand Overview Note"
+			],
+			[
+				"bib",
+				"ZK: Auto-Bib"
+			],
+			[
+				"tags",
+				"ZK: Pick tag from list"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insert",
+				"ZK: Insert Link"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"no",
+				"ZK: New Zettel Note"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Daten/OneDrive/dev/dg"
+	],
+	"file_history":
+	[
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/src/components/header.js",
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/src/pages/about.js",
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/src/pages/about-css-modules.module.css",
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/src/pages/about-css-modules.js",
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/src/components/container.module.css",
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/src/components/container.js",
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/gatsby-browser.js",
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/src/styles/global.css",
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/src/pages/contact.js",
+		"/D/Daten/OneDrive/dev/gatsby/hello-world/src/pages/index.js",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/_qn/quick_notes.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/_tags.zkr",
+		"/C/Users/Nutzer/AppData/Roaming/Sublime Text 3/Packages/sublime_zk/Default (Windows).sublime-keymap",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/.search_results.zkr",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200513081649 Lebensmittelversorgung in den USA ist extrem zentralisiert.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200831121118 Irrationalität ist kein Fehler, sondern erfüllt evolutionäre Funktion.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200812162820 Q - Bauer 2018 Die Vereindeutigung der Welt.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200831120100 Planung muss Vielfalt zukünftiger Entwicklungen berücksichtigen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200831115512 Elemete des PKM als Fortschrittsskala.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200831114803 Studium als Ausbildung zu verstehen, unterwirft Bildung der kapitalistischen Verwerungslogik.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200411182443 Kreativität braucht Element des Play.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200830154222 Flächendeckendes Home Office verändert Wählerstrukturen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200524114103 Die Debatte um den Wert von Arbeit ist vielschichtig und komplex.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200524114303 Geht es um die Befreiung der Arbeit oder um die Befreiung von Arbeit.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200430083044 Idealerweise sind Notizen auf Fragestellungen ausgerichtet.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200504080833 Schreiben schärft die Auseinandersetzung mit Ideen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200504081322 Unverstandenes lässt sich nicht verständlich ausdrücken.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200527082604 Einfaches wiederholdendes Lesen schafft Illusion des Verstehens.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200411182831 Bildungsystem setzt auf Fast Food Education.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200504080304 Studium ist bereits forschendes Arbeiten.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200512082616 Expertentum oft als Regelkompetenz missverstanden.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200427074421 Qualität von Texten und Schreibprozess hängt stark von der Vorarbeit ab.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200528064647 Zettelkasten hilft, von der Aufgabe zur zu klärenden Frage zu kommen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200528070120 Wer zu verstehen sucht, kann nicht anders als zu lernen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200528065749 Lernen ist Ausstattung von Informationen mit Sinn.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200328183251 Verknüpfungen brauchen Erläuterung.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200528070343 Idealerweise Zettel gleich auf anderen Zettel hinschreiben.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200428081717 Wissenschaftliches Arbeiten ist kaum planbar.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200405180850 Enge Vernetzung stärkt den sozialen Druck.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200521223752 Ziel von Notizen muss es sein, besser zu denken.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200527083428 (Akademischer) Erfolg setzt voraus über das Gelesene hinauszudenken.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200405185007 Parallelen zwischen Wissensarbeit und industrieller Produktion.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200528070655 Übersichtlichkeit egal, Zettelkasten kein Produkt.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200430082614 Kontinuierliche strukturierte Notizen verkürzen Arbeit am Ende.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200505084116 Schreiben beginnt nie am Anfang sondern verläuft immer Zirkelförmig.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200603080218 Eigenes Denken besteht in der Konfrontation mit anderen Denkmöglichkeiten.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200527082036 Verschriftlichen einzelner Gedanken zwingt zum Verstehen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200427075743 Sorgsam gestaltetes Umfeld prägt Routinen stärker als Willenskraft.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200428080503 Willenskraft ist dann nötig, wenn ein Konflikt zwischen dem Wollen und dem Tun besteht.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200329162309 Etablierte Nutzungsroutinen bleiben auch nach Wandel bestehen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200506082713 Gewöhnung an eine Routine schafft Illusion der Kompetenz.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200609082204 Stress treibt uns an alten Gewohnheiten festzuhalten.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200531192938 Wenn Produzenten auf YouTube sich zusammentun können sie ihre Reichweite massiv steigern.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200411174510 Stadtplanung schaute lange Zeit auf Gebäude, nicht auf Wege.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/2020061114593 Hier kommt ein Text.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200329155514 Parabeln, in denen Wissenschaftstheorie mit Käsemilben erklärt wird.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200513082542 Im Umformulieren der Texte anderer lässt sich schreiben ohne zu verstehen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200612145950 Europäische Resistenz gegen die Pest macht uns empfänglicher für Autoimmunerkrankungen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200412184246 Kippelemente lassen sich auch in der öffentlichen Wahrnehmung erkennen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200613201226 In der Renaissance waren die Beweise auf Seiten der Religion.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200614100420 .md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200614100113 Atheismus in der Renaissance nicht systematisch erdacht, sondern emergent entstanden - Palmer.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200527082906 Gerade das Sortieren unstrukturierten Materials fördert das Lernen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200427074325 Q - Ahrens 2017 Zettelkasten-Prinzip.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200329161305 In der Verbindung von Kunst und Wissenschaft wird Innovation möglich.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200412185337 SF kann als Form des Play gesehen werden, die what if ermöglicht.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200411173649 Nur Stadtplanung von unten kann Ungleichheiten bekämpfen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200620152301 Zeichen verweisen nur auf Etwas, das aber nur durch Zeichen zugänglich ist - Derrida.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200620153129 Kybernetische Weltentwurf stellt Steuerung in den Mittelpunkt - Heidegger.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200620153514 Menschen können auf Rolle im kybernetischen System reduziert werden.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200619162249 Die Moderne war von einem Kritiküberschuss geprägt, die Postmoderne von einem Kontrollüberschuss.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200620152936 Big Data wird als Ende der Theorie gesehen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200610075647 Waybackmachine wird genutzt, um gelöschten Content zu verbreiten.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200622080838 Codierung der Datenwelt ähnelt Codierung gesellschaftlicher Systeme.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200624072651 Der Begriff der informationellen Selbstbestimmung ist Unsinn.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200624074259 Übergang von der Privatheit 1.0 zur Privatheit 2.0.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200406182715 Verantwortung wirkt über Sanktionierung.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200624094211 Frequently Not Asked Questions.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200614100516 Ziel der Philosophen in der Renaissance war nicht der Atheismus.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200628083135 .md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200628083025 .md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200626150438 .md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200628084435 .md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200626150538 .md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200613201146 Historische Zensur lädt dazu ein, Abweichung zwischen die Zeilen zu lesen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200626150458 Nordische Mythologie unterscheidet sich grundlegend von römischer bzw. griechischer.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200410112041 Historische Wissenschaftler werden kulturell überformt.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200628082759 Inquisition war nur nebensächlich an Wissenschaftlern interessiert.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200628084550 Giordano Brunos Hinrichtung war nicht typisch für die Zeit, aber prägend.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200412183732 Überdosis Weltgeschehen zerstört etablierte Überzeugungen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200628084500 .md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200620152645 Datenmengen machen Forschung nicht exakter - Mainzer.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200628091709 In den SoWis arbeiten weniger Wissenschaftlerinnen an vielen Fragen, in NaWis ist das anders.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200614103631 Science Fiction fights our ethical battles before we have to fight them.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200614100239 Historischer Wandel selten systematisch geplant, sondern emergent aus vielen Einzelhandlungen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200703081323 Drei Arten des Lesens - Wolf.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200504081620 Ziel des Schreibens verändert das Lesen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200703083008 Explizite Ansprache in Ausschreibungen führt zu mehr Bewerbungen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200423080759 Landschaftsdesign gestaltet Kontexte.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200619155920 Digitalisierung ist in der Grundstruktur der Gesellschaft angelegt.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200619160144 Übergang von Substanzbegriffen zu Relationsbegriffen bei Cassirer.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200619161304 Digitalisierung macht latente soziale Strukturen und damit Gesellschaft sichtbar.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/2020052807142 Geistes und SoWi koennen Komplexitaet nicht in Experimente externalisieren.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200620150810 Wissenschaftlich Präzision Resultat selbst-erzeugter Idealisierung - Husserl.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200621155201 Unterschiedliche Systeme können die Welt auf unterschieliche Weise verdoppeln.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200621161044 Digitalisierung liegt quer zu allen Differenzierungsformen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200623081519 Klassische Medien ermöglichen selektive Beobachtung, das Internet nur totale.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200405180542 Neben dem Information Overload gibt es auch einen Opinion Overload.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200329164326 Das politische Ich ist schärfer und konfrontativer als das persönliche.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200714092041 Liberale Debattenkultur durch Idee des Mittelwegs geprägt.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200714092641 Prominente werden nicht beim ersten Fehltritt gecancelled.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200717110507 Sind Ideen wie White Fragility herablassend gegenüber PoC.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200411174118 Brasilia ist modernistisch und zum Leben eine Katastrophe.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200405183241 Wie könnte Beratung aussehen, die nicht nach Stunden abrechnet.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200422082842 Auch für Mitarbeitende lassen sich Erfahrungen kuratieren.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200621160009 Welt nur noch als Verdoppelung zugänglich.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200623075551 Deep Learning nutzt Abduktion, nicht Induktion.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200621154554 Datenmäßige Verdoppelung der Welt nicht ohne Voraussetzungen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200620151147 Big Data zielt nicht auf das Begreifen und ist damit szientoid.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200512083307 Entscheidungen von komplexen deep learning Algorithmen sind nicht sinnhaft nachvollziehbar.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200406184904 Wie können künstliche Intelligenzen Verantwortung übernehmen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200329153958 Diskriminierung durch Algorithmen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200623080919 Unwohlsein bei Algorithmen kommt von fehlender Nachvollziehbarkeit.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200410114956 Wir sollten einzelne Aktivitäten stärker getrennt voneinander wahrnehmen.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200327071918 S - Human Condition.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200720092231 Technik eigenständig gegenüber der Natur - Blumenberg.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200723114723 LI - Machtspieler von Ronny Blaschke.md",
+		"/D/Daten/OneDrive/__WiP/Zettelkasten/20200723114840 LI - McMindfulness von Ronald E Purser.md"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"D:\\Daten\\OneDrive\\__WiP\\Zettelkasten",
+			"C:\\Users\\Nutzer\\AppData\\Roaming\\Sublime Text 3\\Packages\\sublime_zk",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Krugman",
+			"kopernikus",
+			"Akteur",
+			"newport",
+			"Rammert",
+			"struktur",
+			"renmae",
+			"insert_citation",
+			"zk_insert_citation",
+			"Experten",
+			"Overload",
+			"Offenheit",
+			"Einführung",
+			"Angst",
+			"einbinden"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "jekyll-garden.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bauer",
+				"20200812162820 Q - Bauer 2018 Die Vereindeutigung der Welt.md"
+			],
+			[
+				"USA leben",
+				"20200513081649 Lebensmittelversorgung in den USA ist extrem zentralisiert.md"
+			],
+			[
+				"kreativi",
+				"20200411182443 Kreativität braucht Element des Play.md"
+			],
+			[
+				"kriteri",
+				"20200325155345 Kriterien dafür, was in die Notizen kommt.md"
+			],
+			[
+				"angst",
+				"20200730104816 Wir wehren uns gegen Informationen, die uns Angst machen.md"
+			],
+			[
+				"eilen",
+				"20200707080911 Q - Eilenberger 2018 Zeit der Zauberer.md"
+			],
+			[
+				"LI - ",
+				"20200402081859 LI - Die nackte Wahrheit von Hans Blumenberg.md"
+			],
+			[
+				"nass",
+				"20200612082500 Q - Nassehi 2019 Muster.md"
+			],
+			[
+				"nasse",
+				"20200612082500 Q - Nassehi 2019 Muster.md"
+			],
+			[
+				"histor",
+				"20200410112041 Historische Wissenschaftler werden kulturell überformt.md"
+			],
+			[
+				"his",
+				"20200410112041 Historische Wissenschaftler werden kulturell überformt.md"
+			],
+			[
+				"sozi",
+				"20200523102038 Soziales Leben hat lange bedeutet, auf wenige Menschen beschränkt zu sein.md"
+			],
+			[
+				"cassir",
+				"20200619160144 Übergang von Substanzbegriffen zu Relationsbegriffen bei Cassirer.md"
+			],
+			[
+				"gebäude",
+				"20200411174510 Stadtplanung schaute lange Zeit auf Gebäude, nicht auf Wege.md"
+			],
+			[
+				"nasseh",
+				"20200612082500 Q - Nassehi 2019 Muster.md"
+			],
+			[
+				"unstruktur",
+				"20200527082906 Gerade das Sortieren unstrukturierten Materials fördert das Lernen.md"
+			],
+			[
+				"renaus",
+				"20200612155129 Renaissance musste erkennen, das Antike die Welt nicht verstanden hatte.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Daten\\OneDrive\\__WiP\\dbtvapi\\dbtvapi.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
